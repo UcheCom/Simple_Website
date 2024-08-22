@@ -1,4 +1,10 @@
-# Simple React & Django Project
+# Simple Website
+
+This is a simple website created using React.js for the frontend and Django for the backend.
+
+## GitHub Repository
+
+[Link to the GitHub Repository](https://github.com/uchecom/Simple_Website)
 
 ## Frontend: React.js
 
